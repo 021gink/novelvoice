@@ -1,0 +1,12 @@
+coqui-tts==0.27.0
+gradio>=4.0.0
+numpy>=1.21.0,<2.0.0
+transformers>=4.30.0
+soundfile>=0.12.0
+librosa>=0.9.0
+torch==2.8.0
+torchaudio==2.8.0
+torchvision==0.23.0
+modelscope>=1.0.0
+coqpit-config==0.2.1
+pypinyin==0.55.0
